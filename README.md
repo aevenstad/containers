@@ -1,2 +1,2 @@
 # containers
-Collection of singularity containers build for NRIS-HPCs user support
+Collection of containers build for NRIS-HPCs user support
